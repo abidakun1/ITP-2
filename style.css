@@ -1,0 +1,104 @@
+.navbar{
+  background-color:#1c2f33;
+  overflow:hidden;
+}
+
+.navbar a{
+  float:left;
+  color:#f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.navbar a:hover{
+  background-color:#ddd;
+  color:black;
+}
+
+header{
+  font-family: arial;
+  text-align: center;
+  color: silver;
+
+}
+.Home h1{
+  font-size: 140px;
+  margin-top: 270px;
+  margin-bottom: 0;
+}
+.Home h2{
+  font-size: 50px;
+  margin: 0;
+}
+.Home a{
+   color: silver;
+   font-size: 50px;
+   text-decoration: none;
+   border: 2px solid ;
+}
+.Home a:hover{
+  background-color: #171615;
+}
+
+.albums h1{
+  font-size: 80px;
+}
+.sec{
+  text-align: center;
+  color:White;
+  font-family: arial;
+}
+
+.sec img{
+  width:500px;
+}
+.sec h2{
+  font-size: 40px;
+}
+footer{
+  text-align: center;
+  color: #475459;
+  padding: 30px;
+  height: 100px;
+  background-color:black;
+}
+
+.stream{
+  color:silver;
+  font-family: sans-serif;
+}
+.stream h1{
+  font-size: 70px;
+  margin-top: 60px;
+  margin-bottom: 0px;
+}
+.stream h2{
+  font-size: 50px;
+  margin-top: 0px;
+}
+
+.imglink, .social{
+  text-align: center;
+}
+.imglink img{
+  height:120px;
+  padding:5px;
+  filter: grayscale();
+}
+.imglink img:hover{
+  filter: none;
+}
+
+.social{
+  text-align: center;
+  font-family: arial;
+  color: white;
+  margin-top: 50px;
+}
+.social img{
+  height:60px;
+  padding: 40px;
+
+}
