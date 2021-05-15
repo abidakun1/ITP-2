@@ -1,0 +1,69 @@
+nav{
+  background-color: #918e8e;
+  height: 80px;
+}
+nav a{
+  text-decoration: none;
+  padding: 25px;
+  font-size: 25px;
+  display: inline-block;
+  color:black;
+}
+nav a:hover{
+  background-color: #8e9c98;
+}
+nav a:active{
+  color: #f70505;
+}
+
+header h1{
+  color: white;
+  font-size: 70px;
+  margin-left: 60px;
+  margin-top: 80px;
+  font-family: sans-serif;
+}
+.cont h1{
+  color: black;
+  text-align: center;
+  border: 3px solid black;
+}
+section p{
+  margin: 45px;
+  font-size: 35px;
+  color: white;
+
+}
+ table{
+   color:white;
+   text-align: center;
+   font-size: 30px;
+ }
+ table td{
+   border: 5px solid black;
+ }
+ table #men{
+   background-image:url("man.jpg");
+ }
+   table #women{
+     background-image:url("woman.jpg");
+ }
+ footer{
+   padding: 20px;
+   margin-top: 90px;
+   height: 150px;
+   background-color: #e3e3e3;
+   text-align: center;
+   font-size: 25px;
+ }
+
+ img{
+  width: 100%;
+ }
+ section{
+   text-align: center;
+ }
+section .con{
+  color: black;
+
+}
