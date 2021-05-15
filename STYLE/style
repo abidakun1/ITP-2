@@ -1,4 +1,8 @@
-nav{
+nav{body{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
   background-color: #918e8e;
   height: 80px;
 }
@@ -51,7 +55,8 @@ section p{
  footer{
    padding: 20px;
    margin-top: 90px;
-   height: 150px;
+   height: 35px;
+   margin-top: auto;
    background-color: #e3e3e3;
    text-align: center;
    font-size: 25px;
